@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Soumya 👋
 
-<!--
-**Soumya6969/Soumya6969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science & Engineering Graduate
 
-Here are some ideas to get you started:
+💻 Python Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Django Developer
+
+🤖 Learning Agentic AI
+
+🚀 Currently building an AI Smart IT Helpdesk System
+
+
+## 👨‍💻 About Me
+
+- 🌱 Currently learning Agentic AI with Python
+- 🔭 Building AI-powered web applications
+- 💡 Interested in Backend Development and Artificial Intelligence
+- 🎯 Looking for Python Developer / Django Developer opportunities
+
+
+## 🚀 Tech Stack
+
+- Python
+- Django
+- SQL
+- SQLite
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- Git
+- GitHub
+
+
+## 🚀 Current Project
+
+### AI Smart IT Helpdesk System
+
+Features:
+
+- User Authentication
+- Complaint Management
+- AI Ticket Categorization
+- Admin Dashboard
+- Ticket Tracking
+- Responsive UI
+
+
+## 📫 Contact
+
+LinkedIn:
+www.linkedin.com/in/soumyamanna19
+
+Email:
+soumyamanna66@gmail.com
